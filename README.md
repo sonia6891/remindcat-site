@@ -1,6 +1,6 @@
 # 提醒喵 RemindCat 官網
 
-提醒喵（RemindCat）App 的介紹網頁，用 GitHub Pages 公開。這個 repo 只有網頁檔案（HTML、CSS、圖片），沒有 App 或伺服器的程式。
+提醒喵（RemindCat）App 的介紹網頁，用 GitHub Pages 公開，網址 https://remindcat.pocketjoystudio.com/ （網域在 Cloudflare，pocketjoystudio.com 是工作室共用網域，這裡只用 remindcat 子網域；CNAME 檔不要刪）。這個 repo 只有網頁檔案（HTML、CSS、圖片），沒有 App 或伺服器的程式。
 
 | 網址 | 語言 |
 |---|---|
